@@ -6,7 +6,7 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayushjain510)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushjain510)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
 <br>
@@ -156,7 +156,7 @@ A full-stack scheduling and notification platform for managing student groups, p
 
 <p align="center">
 
-<a href="https://github.com/jayushjain510">
+<a href="https://github.com/ayushjain510">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
