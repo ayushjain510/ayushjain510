@@ -20,11 +20,11 @@
 
 ---
 
-> 💡 **Currently:** Building projects, learning new technologies, and becoming a better software engineer.
+> **Currently:** Building projects, learning new technologies, and becoming a better software engineer.
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a Computer Science Engineering student at Woxsen University, Hyderabad, 
 interested in building practical software across frontend, backend, and AI/ML.
@@ -37,7 +37,7 @@ software engineering skills.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <h4>Languages</h4>
 
@@ -92,7 +92,7 @@ software engineering skills.
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Advanced React & full-stack architecture
 - Backend development & API design
@@ -101,9 +101,9 @@ software engineering skills.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🟩 [Word Streak](https://github.com/ayushjain510/word-streak)
+### 1. [Word Streak](https://github.com/ayushjain510/word-streak)
 
 <p align="center">
   <img src="./word-streak.png" alt="Word Streak gameplay" width="450">
@@ -117,7 +117,7 @@ A Wordle-inspired word-guessing game with hints, personal statistics, theme cust
 
 ---
 
-### 🤖 [Borewell Rescue AI](https://github.com/ayushjain510/borewell-rescue-ai)
+### 2. [Borewell Rescue AI](https://github.com/ayushjain510/borewell-rescue-ai)
 
 <p align="center">
   <img src="./borewell-rescue.png" alt="Borewell Rescue AI dashboard" width="800">
@@ -131,7 +131,7 @@ An AI-assisted borewell rescue system combining sensor monitoring, machine-learn
 
 ---
 
-### 🔐 [PanelSync](https://github.com/ayushjain510/panelsync)
+### 3. [PanelSync](https://github.com/ayushjain510/panelsync)
 
 <p align="center">
   <img src="./panelsync.png" alt="PanelSync dashboard" width="800">
@@ -145,7 +145,7 @@ A full-stack scheduling and notification platform for managing student groups, p
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img
@@ -157,7 +157,7 @@ A full-stack scheduling and notification platform for managing student groups, p
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
 
@@ -174,5 +174,5 @@ A full-stack scheduling and notification platform for managing student groups, p
 ---
 
 <p align="center">
-  <i>Thanks for stopping by! ⭐</i>
+  <i>Thanks for stopping by! </i>
 </p>
