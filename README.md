@@ -144,7 +144,7 @@ A full-stack scheduling and notification platform for managing student groups, p
 
 <p align="center">
   <img
-    src="./github-activity-v2.svg"
+    src="./github-activity-v2.svg?v=2"
     alt="GitHub contribution activity"
     width="100%"
   >
