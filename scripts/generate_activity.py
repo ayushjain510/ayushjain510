@@ -40,10 +40,7 @@ with urllib.request.urlopen(request) as response:
 if "errors" in data:
     raise RuntimeError(data["errors"])
 
-calendar = (
-    data["data"]["viewer"]["contributionsCollection"]
-    ["contributionCalendar"]
-)
+calendar = (data["data"]["user"]["contributionsCollection"]["contributionCalendar"])
 
 weeks = calendar["weeks"]
 total = calendar["totalContributions"]
