@@ -7,7 +7,7 @@ TOKEN = os.environ["GITHUB_TOKEN"]
 
 QUERY = """
 query {
-  viewer {
+  user(login: "ayushjain510") {
     login
     contributionsCollection {
       contributionCalendar {
