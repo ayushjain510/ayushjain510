@@ -7,7 +7,7 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushjain510)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[LinkedIn](https://www.linkedin.com/in/ayush-jain-a96939339/)
 
 <br>
 
@@ -144,7 +144,7 @@ A full-stack scheduling and notification platform for managing student groups, p
 
 <p align="center">
   <img
-    src="./github-activity-v2.svg?v=2"
+    src="./github-activity.svg"
     alt="GitHub contribution activity"
     width="100%"
   >
@@ -160,7 +160,7 @@ A full-stack scheduling and notification platform for managing student groups, p
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="[LinkedIn](https://www.linkedin.com/in/ayush-jain-a96939339/)">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
