@@ -392,7 +392,7 @@ svg.append(
 svg.append("</svg>")
 
 with open(
-    "github-activity-v2.svg",
+    "github-activity.svg",
     "w",
     encoding="utf-8"
 ) as file:
